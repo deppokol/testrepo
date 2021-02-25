@@ -1,0 +1,6 @@
+pillow
+fire
+thumb
+moon
+checkmark
+smile
